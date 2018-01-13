@@ -1,0 +1,13 @@
+[user]
+	name = Ryan Mulcahy
+	email = mulchy81@gmail.com
+[push]
+	default = simple
+[diff]
+	tool = opendiff
+[color]
+	ui = true
+[core]
+	editor = emacsclient -nw
+[rebase]
+	autosquash = true

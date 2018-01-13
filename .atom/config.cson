@@ -1,0 +1,55 @@
+"*":
+  "atom-typescript": {}
+  "autoclose-html":
+    forceInline: [
+      "title"
+      "h1"
+      "h2"
+      "h3"
+      "h4"
+      "h5"
+      "h6"
+      "p"
+    ]
+  autosave:
+    enabled: true
+  core:
+    disabledPackages: [
+      "racer"
+      "linter-eslint"
+    ]
+    telemetryConsent: "no"
+    themes: [
+      "one-light-ui"
+      "solarized-light-syntax"
+    ]
+  editor:
+    invisibles: {}
+    showIndentGuide: true
+    showInvisibles: true
+  "exception-reporting":
+    userId: "9e61a680-b692-8c8a-5186-d23e61119525"
+  "go-config": {}
+  linter:
+    errorPanelHeight: 212
+  "linter-eslint":
+    disableFSCache: true
+    disableWhenNoEslintConfig: false
+    eslintrcPath: "~/.eslintrc.json"
+  "markdown-themeable-pdf": {}
+  "prettier-atom":
+    singleQuote: true
+  "split-diff":
+    diffWords: true
+    ignoreWhitespace: true
+    leftEditorColor: "red"
+    rightEditorColor: "green"
+    syncHorizontalScroll: true
+  "tree-view": {}
+  welcome:
+    showOnStartup: false
+".source.ts":
+  editor:
+    showInvisibles: true
+    softWrapAtPreferredLineLength: true
+    softWrapHangingIndent: 2

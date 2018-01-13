@@ -1,0 +1,8 @@
+alias gs='git status'
+alias "less=less -R"
+alias "tree=tree -C"
+alias noise="afplay /System/Library/Sounds/Submarine.aiff -v 10"
+alias date=gdate
+alias open-ports='sudo lsof -i -P | grep -i "listen"'
+alias vim='emacsclient -nw'
+alias gemacs='open -a /Applications/Emacs.app $1'
